@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "omLYlVNxJy5gjiCgDXBPn6tVGqKprcnojcT67OxTbalcRKWW17CDnLlXfeKQarcb0dYuuANteUzySMHRm4AfzQ==",
+  "success": true,
+  "projectFilePath": "D:\\RIT\\Summer 2022\\CSCI 251\\Project3\\Messenger\\Messenger\\Messenger.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gcopp\\.nuget\\packages\\newtonsoft.json\\13.0.2-beta1\\newtonsoft.json.13.0.2-beta1.nupkg.sha512"
+  ],
+  "logs": []
+}
