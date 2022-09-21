@@ -1,6 +1,6 @@
 /*
  * The purpose of this class is to find the prime numbers that will be generated for the key gen portion of this lab.
- * Most of this was taken directly from project 2. Only minor portions were made. 
+ * most of this was taken directly from project 2. Only minor portions were made. 
  *
  * @author Giovanni Coppola (gac6151@rit.edu)
  */
